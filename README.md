@@ -4,7 +4,7 @@ This repository is Term Project repository.
 - **Datasets : CIFAR-10** </br>
 - **Basic model : ResNet-18** </br>
 
-- **experiments** </br>
+#### **experiments** </br>
 **1. resnet18_lr.ipynb </br>**
  > first learning rate : 0.1 </br>
  > ---------> accuracy : 91.27% </br>
