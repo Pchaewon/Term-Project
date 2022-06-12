@@ -42,11 +42,10 @@ This repository is Term Project repository.
  > I used AutoAugment. </br>
  > ---------> accuracy : 95.47% </br>
 
-======================================================================================
 **6. resnet_ensemble.ipynb </br>**
- > Experiment with stacking ensemble of the three pretrained models learned earlier. Stacking Ensemble is called an ensemble because it uses several models. The structure of this Stacking Ensemble is a form of learning by using the data predicted by each model again as a training set.
+ > Experiment with stacking ensemble of the three pretrained models learned earlier. Stacking Ensemble is called an ensemble because it uses several models. The structure of this Stacking Ensemble is a form of learning by using the data predicted by each model again as a training set.</br>
  > ---------> accuracy : 95.87% </br>
 
 **7. resnet_ensemble2.ipynb </br>**
  > I changed DataAugmentation part.</br>
- > ---------> accuracy : 83.94%
+ > ---------> accuracy : 83.94% </br>
