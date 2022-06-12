@@ -1,6 +1,7 @@
 # Term-Project
 This repository is Term Project repository.
 ======================================================================================
+- DEADLINE : 11:59pm, 12th June, 2022 </br>
 - **Datasets : CIFAR-10** </br>
 - **Basic model : ResNet-18** </br>
 
